@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-LGPL%202.1-blue.svg)](http://www.gnu.org/licenses/lgpl-2.1.html)
+[![Version](https://img.shields.io/badge/Version-TBA-N%2FA)](https://github.com/jbae-89/GeoChemTK)
 [![License](https://img.shields.io/badge/license-EPL%202.0-blue.svg)](http://www.eclipse.org/legal/epl-2.0)
 [![Language](http://img.shields.io/badge/language-java-brightgreen.svg)](https://www.java.com/)
 
