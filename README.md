@@ -15,11 +15,11 @@ Written by Joshua Bailey
   Java JRE
 
 ## Usage ##
-GeoTK is designed to be easy to use, all you have to do is run the Binary. 
+[Usage Wiki](https://github.com/jbae-89/GeoChemTK/wiki/Using-the-program)
 
 ## Documentation
 
-Wiki will be updated with documentation and coding conventions.
+[Documentation Wiki](https://github.com/jbae-89/GeoChemTK/wiki)
 
 ## Development Dependencies
 
@@ -27,4 +27,4 @@ Wiki will be updated with documentation and coding conventions.
 
 ## Feature Requests
 
-  Please submit feature requests or PRs through github.
+[Feature Request Wiki](https://github.com/jbae-89/GeoChemTK/wiki/Feature-requests)
