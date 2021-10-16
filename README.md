@@ -29,3 +29,6 @@ Written by Joshua Bailey
 ## Feature Requests
 
 [Feature Request Wiki](https://github.com/jbae-89/GeoChemTK/wiki/Feature-requests)
+
+## License
+TBD
