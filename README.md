@@ -1,5 +1,5 @@
 [![Version](https://img.shields.io/badge/Version-TBA-N%2FA)](https://github.com/jbae-89/GeoChemTK)
-[![License](https://img.shields.io/badge/license-EPL%202.0-blue.svg)](http://www.eclipse.org/legal/epl-2.0)
+![GitHub](https://img.shields.io/github/license/jbae-89/GeoChemTK)
 [![Language](http://img.shields.io/badge/language-java-brightgreen.svg)](https://www.java.com/)
 
 # GeoChemTK
