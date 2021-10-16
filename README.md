@@ -8,8 +8,7 @@ Release date: TBA</p>
 
 Written by Joshua Bailey
 
-(C) Copyright 2021, by Joshua Bailey and Contributors. All rights
-reserved.
+(C) Copyright 2021, by Joshua Bailey. All rights reserved.
 
 
 ## Dependencies ##
