@@ -24,7 +24,7 @@ Written by Joshua Bailey
 ## Development Dependencies
 
 - [JUnit](http://www.junit.org) unit testing framework. JUnit is licensed under the terms of the IBM Common Public License.
-- [Maven](https://maven.apache.org/) build management tool. Maven is license under the terms of the Apache 2.0 License.
+- [Gradle](https://gradle.org/) build management tool. Gradle is licensed under the terms of the Apache 2.0 License.
 
 ## Feature Requests
 
