@@ -19,6 +19,7 @@ public class GeoChemTK extends Application {
         FXMLLoader fxmlLoader = new FXMLLoader(GeoChemTK.class.getResource("geochem-view.fxml"));
 
         // This is not production code.
+        // Initial window size X and Y
         double maxX = Screen.getPrimary().getBounds().getMaxX() / 1.5;
         double maxY = Screen.getPrimary().getBounds().getMaxY() / 1.5;
 
