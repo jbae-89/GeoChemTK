@@ -2,11 +2,10 @@ plugins {
     id 'java'
     id 'application'
     id 'org.openjfx.javafxplugin' version '0.0.10'
+    id 'checkstyle'
 }
 
-
 group 'gctk'
-
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -15,12 +14,11 @@ repositories {
 
 ext {
     junitVersion = '5.8.1'
+    checkstyleVersion ='9.0.1'
 }
 
-
-sourceCompatibility = '11'
-targetCompatibility = '11'
-
+sourceCompatibility = '9'
+targetCompatibility = '9'
 
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
@@ -33,7 +31,6 @@ application {
 
 javafx {
     version = '11.0.2'
-
     modules = ['javafx.controls', 'javafx.fxml']
 }
 
@@ -45,4 +42,9 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+checkstyle {
+    toolVersion = checkstyleVersion
+    ignoreFailures = true
 }
