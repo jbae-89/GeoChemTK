@@ -4,7 +4,7 @@ plugins {
     id 'org.openjfx.javafxplugin' version '0.0.10'
 }
 
-group 'gctk'
+group 'com.example'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -15,8 +15,8 @@ ext {
     junitVersion = '5.8.1'
 }
 
-project.sourceCompatibility = '16'
-project.targetCompatibility = '16'
+sourceCompatibility = '11'
+targetCompatibility = '11'
 
 tasks.withType(JavaCompile) {
     options.encoding = 'UTF-8'
@@ -28,7 +28,7 @@ application {
 }
 
 javafx {
-    version = '16'
+    version = '11.0.2'
     modules = ['javafx.controls', 'javafx.fxml']
 }
 
