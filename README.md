@@ -25,7 +25,7 @@ Written by Joshua Bailey
 
 - [JUnit](http://www.junit.org) unit testing framework. JUnit is licensed under the terms of the IBM Common Public License.
 - [Gradle](https://gradle.org/) build management tool. Gradle is licensed under the terms of the Apache 2.0 License.
-- [JavaFX](https://openjfx.io/) Java GUI framework. Licensing TBD
+- [JavaFX](https://openjfx.io/) Java GUI framework. JavaFX is licenses under the terms of the GPL 2.0 License.
 - [checkstyle](https://checkstyle.sourceforge.io/) Tool to verify coding standard. Checkstyle is licensed under LGPL-2.1+
 
 ## Feature Requests
